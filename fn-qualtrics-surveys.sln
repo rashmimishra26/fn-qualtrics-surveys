@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fn-qualtrics-surveys", "fn-qualtrics-surveys.csproj", "{106C6946-B95F-4939-A15E-08BBB566B087}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fn-qualtrics-surveys-test", "..\fn-qualtrics-surveys-test\fn-qualtrics-surveys-test.csproj", "{62461B0A-3D1D-4578-AED6-187EA7DFFB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106C6946-B95F-4939-A15E-08BBB566B087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106C6946-B95F-4939-A15E-08BBB566B087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106C6946-B95F-4939-A15E-08BBB566B087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106C6946-B95F-4939-A15E-08BBB566B087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62461B0A-3D1D-4578-AED6-187EA7DFFB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62461B0A-3D1D-4578-AED6-187EA7DFFB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62461B0A-3D1D-4578-AED6-187EA7DFFB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62461B0A-3D1D-4578-AED6-187EA7DFFB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B45FC0-B9C5-4430-8E48-67976BB8E0A2}
+	EndGlobalSection
+EndGlobal

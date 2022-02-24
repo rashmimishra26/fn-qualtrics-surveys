@@ -1,0 +1,10 @@
+{
+  "keyVaultUrl": "victra-dev-ris-kv",
+  "surveyId": "SV_9ZuqDjbA4DbYFH8",
+  "sqlConn": "QualtricsSqlDb",
+  "getSalesRepVw": "vw_get_sales_rep_name",
+  "updateApi": "QualtricsUpdateAPI",
+  "tokenApi": "QualtricsTokenAPI",
+  "clientId": "QualtricsClientId",
+  "clientSecret": "QualtricsClientSecret"
+}
